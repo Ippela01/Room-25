@@ -11,7 +11,7 @@ public class GameMap {
 	System.out.println("@  *-------------*   *-------------*   *-------------*  @");
 	System.out.println("@         |                 |                 |         @");
 	System.out.println("@         |                 |                 |         @");
-	System.out.println("@  *-------------*   *-------------*   *-------------*  @");  //R7-R8-R9 
+	System.out.println("@  *-------------*   *-------------*   *-------------*  @");    //R7-R8-R9 
 	System.out.println("@  |             |   |             |   |             |  @");	//R5-R4-R3
 	System.out.println("@  |King'sBedroom|---|   Armory    |---|Royal Kitchen|  @");	//R6-R1-R2
 	System.out.println("@  |             |   |             |   |             |  @");

@@ -31,6 +31,11 @@ public class Item {
         Item other = (Item) obj;
         return Objects.equals(name, other.name);
     }
+
+    public String getName() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getName'");
+    }
 }
 
 
